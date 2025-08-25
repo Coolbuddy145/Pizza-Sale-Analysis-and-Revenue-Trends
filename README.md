@@ -18,9 +18,22 @@ The analysis addresses key questions:
 * Average Pizzas per Order: How many pizzas does a customer typically order in one transaction?
 
 * Top 5 Pizzas by Revenue: Which pizzas contribute the most to overall revenue?
+  
 ---
 
-## ⚙️ Data Preparation
+## ⚙️ Dataset Information
+
+* pizza_id - Unique identifier for each Pizza	
+* order_id - Unique identifier for each order	
+* quantity - No of Pizzas Sold
+* order_date - Date on which Pizza ordered
+* order_time - Time at which Pizza Ordered
+* unit_price -  Price of each quantity
+* total_price - Total Price of order
+* pizza_size - Size of Pizza (Regular, Medium, Large)
+* pizza_category -  Category of Pizza (Supreme, Classic, Chicken, Veggie)
+* pizza_ingredients - Ingredients Used
+* pizza_name -  Name of the Pizza
 
 * Dropped `emp_title`, `id`, `member_id`, `total_acc` (low value).
 * Converted `term` from object to integer.
