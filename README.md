@@ -24,16 +24,16 @@ The analysis addresses key questions:
 ## ⚙️ Dataset Information
 
 * **pizza_id** - Unique identifier for each Pizza	
-* order_id - Unique identifier for each order	
-* quantity - No of Pizzas Sold
-* order_date - Date on which Pizza ordered
-* order_time - Time at which Pizza Ordered
-* unit_price -  Price of each quantity
-* total_price - Total Price of order
-* pizza_size - Size of Pizza (Regular, Medium, Large)
-* pizza_category -  Category of Pizza (Supreme, Classic, Chicken, Veggie)
-* pizza_ingredients - Ingredients Used
-* pizza_name -  Name of the Pizza
+* **order_id** - Unique identifier for each order	
+* **quantity** - No of Pizzas Sold
+* **order_date** - Date on which Pizza ordered
+* **order_time** - Time at which Pizza Ordered
+* **unit_price** -  Price of each quantity
+* **total_price** - Total Price of order
+* **pizza_size** - Size of Pizza (Regular, Medium, Large)
+* **pizza_category** -  Category of Pizza (Supreme, Classic, Chicken, Veggie)
+* **pizza_ingredients** - Ingredients Used
+* **pizza_name** -  Name of the Pizza
 
 ---
 
@@ -47,7 +47,15 @@ The analysis addresses key questions:
 
 ## 📈 Key Insights
 
+* **Peak Order Days:** Customer demand is highest on Fridays, Saturdays, and Thursdays, making weekends the busiest sales periods.
 
+* **Seasonal Dip (Aug–Oct):** Sales dropped significantly during August to October. To counter this, the restaurant could introduce discounts, festive offers, or combo deals during these months.
+
+* **Size Preference:** Large-size pizzas generate the maximum revenue, followed by Medium and Regular, suggesting strong customer preference for value-for-money larger portions.
+
+* **Category Performance:** Classic and Supreme pizzas are the top revenue generators, indicating they are core products driving sales.
+
+* **Low Sunday Sales:** Sales are consistently lowest on Sundays. The restaurant can improve traffic by offering Sunday-exclusive deals or family meal packages.
 
 ---
 
