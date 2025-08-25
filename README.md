@@ -61,9 +61,10 @@ The analysis addresses key questions:
 
 ## 📌 Business Value
 
-* Confirms **grading and DTI** effectively manage risk.
-* Identifies **growth opportunities** in underrepresented loan purposes & renter/mortgage-holder segments.
-* Highlights **profitability trend** with rising loan demand.
-* Suggests tighter monitoring of **Grades F & G**.
+* **Revenue Growth:** Focus promotions on top-selling pizzas (Classic & Supreme) and large sizes to maximize profits.
+
+* **Customer Engagement:** Launch weekend combos to leverage peak demand (Fri–Sat) and Sunday deals to boost low traffic.
+
+* **Seasonal Planning:** Counter the Aug–Oct sales dip with discounts, festival offers, or new menu launches.
 
 ---
