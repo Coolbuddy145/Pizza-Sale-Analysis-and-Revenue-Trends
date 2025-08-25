@@ -21,7 +21,7 @@ The analysis addresses key questions:
   
 ---
 ![Pizza_Dashboard](https://github.com/Coolbuddy145/Pizza-Sale-Analysis-and-Revenue-Trends/blob/fa6ef7280a07930154960f9d79dcf504e219303e/Pizza%20Dashboard.jpg)
-
+---
 
 ## ⚙️ Dataset Information
 
@@ -45,7 +45,7 @@ The analysis addresses key questions:
 * Excel / CSV – source data for sales transactions.
 * DAX – for calculated measures (KPIs, aggregations).
 * Power Query – for data cleaning and transformation.
-
+---
 
 ## 📈 Key Insights
 
