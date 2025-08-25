@@ -37,6 +37,17 @@ The analysis addresses key questions:
 
 ---
 
+## 🛠️ Tools & Technologies
+
+* Power BI – for building interactive dashboards.
+* Excel / CSV – source data for sales transactions.
+* DAX – for calculated measures (KPIs, aggregations).
+* Power Query – for data cleaning and transformation.
+
+
+
+
+
 ## 📈 Key Insights
 
 * **Loan Purpose:** Most loans for **debt consolidation & credit card repayment**; medical, education, and housing loans underrepresented. → Opportunity for targeted products.
