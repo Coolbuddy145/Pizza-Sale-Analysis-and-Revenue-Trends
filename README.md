@@ -35,10 +35,6 @@ The analysis addresses key questions:
 * pizza_ingredients - Ingredients Used
 * pizza_name -  Name of the Pizza
 
-* Dropped `emp_title`, `id`, `member_id`, `total_acc` (low value).
-* Converted `term` from object to integer.
-* Kept outliers as they reflect real-world cases (e.g., high income, large loans).
-
 ---
 
 ## 📈 Key Insights
