@@ -20,6 +20,8 @@ The analysis addresses key questions:
 * Top 5 Pizzas by Revenue: Which pizzas contribute the most to overall revenue?
   
 ---
+![Pizza_Dashboard](https://github.com/Coolbuddy145/Pizza-Sale-Analysis-and-Revenue-Trends/blob/fa6ef7280a07930154960f9d79dcf504e219303e/Pizza%20Dashboard.jpg)
+
 
 ## ⚙️ Dataset Information
 
